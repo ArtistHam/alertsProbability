@@ -1,0 +1,122 @@
+[
+ {
+  "time": "00",
+  "num": 14,
+  "probability": "6.60"
+ },
+ {
+  "time": "01",
+  "num": 5,
+  "probability": "2.36"
+ },
+ {
+  "time": "02",
+  "num": 2,
+  "probability": "0.94"
+ },
+ {
+  "time": "03",
+  "num": 13,
+  "probability": "6.13"
+ },
+ {
+  "time": "04",
+  "num": 17,
+  "probability": "8.02"
+ },
+ {
+  "time": "05",
+  "num": 20,
+  "probability": "9.43"
+ },
+ {
+  "time": "06",
+  "num": 11,
+  "probability": "5.19"
+ },
+ {
+  "time": "07",
+  "num": 14,
+  "probability": "6.60"
+ },
+ {
+  "time": "08",
+  "num": 12,
+  "probability": "5.66"
+ },
+ {
+  "time": "09",
+  "num": 8,
+  "probability": "3.77"
+ },
+ {
+  "time": "10",
+  "num": 15,
+  "probability": "7.08"
+ },
+ {
+  "time": "11",
+  "num": 18,
+  "probability": "8.49"
+ },
+ {
+  "time": "12",
+  "num": 10,
+  "probability": "4.72"
+ },
+ {
+  "time": "13",
+  "num": 13,
+  "probability": "6.13"
+ },
+ {
+  "time": "14",
+  "num": 11,
+  "probability": "5.19"
+ },
+ {
+  "time": "15",
+  "num": 6,
+  "probability": "2.83"
+ },
+ {
+  "time": "16",
+  "num": 11,
+  "probability": "5.19"
+ },
+ {
+  "time": "17",
+  "num": 16,
+  "probability": "7.55"
+ },
+ {
+  "time": "18",
+  "num": 16,
+  "probability": "7.55"
+ },
+ {
+  "time": "19",
+  "num": 19,
+  "probability": "8.96"
+ },
+ {
+  "time": "20",
+  "num": 22,
+  "probability": "10.38"
+ },
+ {
+  "time": "21",
+  "num": 18,
+  "probability": "8.49"
+ },
+ {
+  "time": "22",
+  "num": 22,
+  "probability": "10.38"
+ },
+ {
+  "time": "23",
+  "num": 16,
+  "probability": "7.55"
+ }
+]
